@@ -1,0 +1,12 @@
+POKEMON BATTLE SIMULATOR - PROJET GLPOO CFA ESIEA 3EME ANNEE
+
+Groupe :
+
+AYUB Talha
+ELOUERDI Ali (Chef de projet)
+ETIENNE Ritchy
+LABADI Khaled
+RACHEDI Zakaria
+SARFARAZ Ahmed - Momin
+SEDIRI Yacine
+ZINNA Imaran
